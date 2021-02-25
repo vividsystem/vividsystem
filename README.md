@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# So yeah you stumbled across my page! Good luck and have fun!
 <!--
 **vividsystem/vividsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
