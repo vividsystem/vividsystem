@@ -1,5 +1,11 @@
 ## Hi there 👋
 ### So yeah you stumbled across my page! Good luck and have fun!
+
+
+Some of my projects:
+- <a href="https://github.com/vividsystem/corona_api">Corona API</a>
+- <a href="https://github.com/vividsystem/autofile">AutoFile</a>
+- <a href="https://github.com/vividsystem/arrow">Arrow</a>
 <!--
 **vividsystem/vividsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
