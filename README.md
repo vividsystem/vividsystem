@@ -1,5 +1,5 @@
 ## Hi there 👋
-### So yeah you stumbled across my page! Good luck and have fun!
+### So you stumbled across my Github Profile, right? Here you can see the stuff related to me:
 
 
 My projects:
