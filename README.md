@@ -1,4 +1,4 @@
-![GitHub Logo](/github_header.png)
+![GitHub Logo](/header.png)
 ### So you stumbled across my Github Profile, right? Here you can see the stuff related to me:
 
 
