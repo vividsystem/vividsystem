@@ -1,14 +1,8 @@
 ![GitHub Logo](/header3.png)
 ### So you stumbled across my Github Profile, right? Here you can see the stuff related to me:
 
-
-My projects:
-- <a href="https://github.com/vividsystem/zero">ゼロ - zero</a>
-- <a href="https://github.com/vividsystem/ezlearn">ezLearn</a>
-- <a href="https://github.com/vividsystem/corona_api">Corona API</a> 
-- <a href="https://github.com/vividsystem/autofile">AutoFile</a>
-- <a href="https://github.com/vividsystem/arrow">Arrow</a>
-
+### Technologies I use
+<img href="https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=flat-square"></img>
 
 
 <a href="https://github.com/vividsystem/dotfiles">My Dotfiles</a>
