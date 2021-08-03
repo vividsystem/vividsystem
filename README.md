@@ -3,6 +3,7 @@
 Hi, I'm vivid. I am a full-stack developer from Germany. 
 
 <hr>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" height=200/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" height=200/>
 
 
