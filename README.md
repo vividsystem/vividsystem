@@ -2,6 +2,9 @@
 <hr>
 Hi, I'm vivid. I am a full-stack developer from Germany. 
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" height=200/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" height=200/>
+<br />
 <details>
   <summary>Click here to see the technologies I use</summary>
   <br />
@@ -12,7 +15,5 @@ Hi, I'm vivid. I am a full-stack developer from Germany.
 
 </details>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" height=200/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" height=200/>
 
 <a href="https://github.com/vividsystem/dotfiles">My Dotfiles</a>
