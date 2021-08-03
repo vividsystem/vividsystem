@@ -1,4 +1,4 @@
-![GitHub Logo](/header3.png)
+![GitHub Logo](/header2.png)
 <hr>
 Hi, I'm vivid. I am a full-stack developer from Germany. 
 
