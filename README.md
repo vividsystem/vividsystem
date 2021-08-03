@@ -4,8 +4,7 @@ Hi, I'm vivid. I am a developer/hacker from Germany.
 My main focus in software-development lies on full-stack Web-Development, which I mostly do in Golang.
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" height=200/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" height=200/>
+<img src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" height=200/><img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" height=200/>
 
 
 <hr />
