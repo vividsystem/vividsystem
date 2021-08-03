@@ -7,5 +7,7 @@
 ![vividsystem's GitHub stats](https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=vim&username=vividsystem&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=vim&username=vividsystem&theme=tokyonight" />
 
 <a href="https://github.com/vividsystem/dotfiles">My Dotfiles</a>
