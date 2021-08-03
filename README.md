@@ -9,7 +9,7 @@ Hi, I'm vivid. I am a full-stack developer from Germany.
 <img src="https://img.shields.io/static/v1?message=Tensorflow&label=&color=4191B3&logoColor=4191B3&labelColor=51C9FC&style=for-the-badge&logo=tensorflow"></img>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" height=200/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" height=200/>
 
 <a href="https://github.com/vividsystem/dotfiles">My Dotfiles</a>
