@@ -8,14 +8,15 @@ My main focus in software-development lies on full-stack Web-Development, which 
 
 
 <hr />
-<details>
-  <summary>Click here to see the technologies I use</summary>
+<!--<details>
+ <summary>Click here to see the technologies I use</summary>
+  
   <img src="https://img.shields.io/static/v1?message=ArchLinux&label=&color=4191B3&logoColor=4191B3&labelColor=51C9FC&style=for-the-badge&logo=archlinux"></img>
   <img src="https://img.shields.io/static/v1?message=Go&label=&color=4191B3&logoColor=4191B3&labelColor=51C9FC&style=for-the-badge&logo=go"></img>
   <img src="https://img.shields.io/static/v1?message=Python&label=&color=4191B3&logoColor=4191B3&labelColor=51C9FC&style=for-the-badge&logo=python"></img>
   <img src="https://img.shields.io/static/v1?message=Tensorflow&label=&color=4191B3&logoColor=4191B3&labelColor=51C9FC&style=for-the-badge&logo=tensorflow"></img>
   <hr >
 </details>
-
+-->
 
 <a href="https://github.com/vividsystem/dotfiles">My Dotfiles</a>
