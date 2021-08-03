@@ -6,6 +6,6 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=vim&username=vividsystem&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight" />
 
 <a href="https://github.com/vividsystem/dotfiles">My Dotfiles</a>
