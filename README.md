@@ -1,7 +1,8 @@
 ![GitHub Logo](/header2.png)
 <hr>
-Hi, I'm vivid. I am a developer/hacker from Germany. 
-My main focus in software-development lies on full-stack Web-Development, which I mostly do in Golang.
+Hi, I'm vivid.
+I make hard- and softwere in mainly Go, Typescript and Python.
+
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" height=180/><img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" height=180/>
