@@ -1,7 +1,12 @@
 ![GitHub Logo](/header2.png)
 <hr>
 Hi, I'm vivid.
-I make hard- and softwere in mainly Go, Typescript and Python.
+I make hard- and software.
+
+Experienced in Go, Python, TS/JS and a bit of C and Java. 
+
+I like to learn stuff so I am probably sidequesting rn. 
+
 
 <hr>
 
