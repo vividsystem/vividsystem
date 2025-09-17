@@ -1,17 +1,12 @@
+# Hi, I'm
 ![GitHub Logo](/header2.png)
 <hr>
-Hi, I'm vivid.
+
 I make hard- and software.
 
 Experienced in Go, Python, TS/JS and a bit of C and Java. 
 
 I like to learn stuff so I am probably sidequesting rn. 
-
-
-<hr>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vividsystem&show_icons=true&theme=tokyonight" height=180/><img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=Vim%20script&username=vividsystem&theme=tokyonight&layout=compact" height=180/>
-
 
 <hr />
 <!--<details>
