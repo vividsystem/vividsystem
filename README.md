@@ -8,6 +8,9 @@ Experienced in Go, Python, TS/JS and a bit of C and Java.
 
 I like to learn stuff so I am probably sidequesting rn. 
 
+Main project rn: [rxdb](https://github.com/vividsystem/rxdb) (a member database website to manage the members of exchange clubs) <br/>
+Sidequests: [painter-hat](https://github.com/vividsystem/painter-hat) (an add-on pcb for Raspberry Pis (also works standalone) that supports USB-C PD up to 100W and can use 2 standard step-sticks to controll 2 stepper motors), and a few secret ones :)
+
 <hr />
 <!--<details>
  <summary>Click here to see the technologies I use</summary>
