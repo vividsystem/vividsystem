@@ -2,14 +2,16 @@
 ![GitHub Logo](/header2.png)
 <hr>
 
-I make hard- and software.
+I make **hard- and software**.
 
 Experienced in Go, Python, TS/JS and a bit of C and Java. 
 
 I like to learn stuff so I am probably sidequesting rn. 
 
-Main project rn: [rxdb](https://github.com/vividsystem/rxdb) (a member database website to manage the members of exchange clubs) <br/>
-Sidequests: [painter-hat](https://github.com/vividsystem/painter-hat) (an add-on pcb for Raspberry Pis (also works standalone) that supports USB-C PD up to 100W and can use 2 standard step-sticks to controll 2 stepper motors), and a few secret ones :)
+Main project: [rxdb](https://github.com/vividsystem/rxdb) (a member database website to manage the members of exchange clubs) <br/>
+Sidequests: 
+* [painter-hat](https://github.com/vividsystem/painter-hat) (an add-on pcb for Raspberry Pis (also works standalone) that supports USB-C PD up to 100W and can use 2 standard step-sticks to controll 2 stepper motors), and a few secret ones :)
+* [pos-todo](https://github.com/vividsystem/pos-todo) (pos-todo makes it possible to use old EPSON receipt printers for literally anything. right now there are a slackbot and a website as frontends. As the backend is using mqtt you can easily use it with IoT solutions)
 
 <hr />
 <!--<details>
