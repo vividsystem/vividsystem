@@ -14,8 +14,8 @@ Currently working on:
 
 Sidequests: 
 * [painter-hat](https://github.com/vividsystem/painter-hat) (an add-on pcb for Raspberry Pis (also works standalone) that supports USB-C PD up to 100W and can use 2 standard step-sticks to controll 2 stepper motors), and a few secret ones :)
-* [as5048b-breakout](https://github.com/vividsystem/as5048b-breakout) (breakout for the AS5048B hall effect sensor)
 * [pos-todo](https://github.com/vividsystem/pos-todo) (pos-todo makes it possible to use old EPSON receipt printers for literally anything. right now there are a slackbot and a website as frontends. As the backend is using mqtt you can easily use it with IoT solutions)
+* [as5048b-breakout](https://github.com/vividsystem/as5048b-breakout) (breakout for the AS5048B hall effect sensor)
 
 <hr />
 <!--<details>
