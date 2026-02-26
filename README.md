@@ -11,6 +11,7 @@ I like to learn stuff so I am probably sidequesting rn.
 Currently working on:
 * [rxdb](https://github.com/vividsystem/rxdb) (a member database website to manage the members of exchange clubs)
 * [jusstudy](https://github.com/vividsystem/jusstudy)
+
 Sidequests: 
 * [painter-hat](https://github.com/vividsystem/painter-hat) (an add-on pcb for Raspberry Pis (also works standalone) that supports USB-C PD up to 100W and can use 2 standard step-sticks to controll 2 stepper motors), and a few secret ones :)
 * [as5048b-breakout](https://github.com/vividsystem/as5048b-breakout) (breakout for the AS5048B hall effect sensor)
